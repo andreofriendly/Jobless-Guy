@@ -1,0 +1,13 @@
+body{
+    overflow: hidden;
+}
+
+#container{
+    display: block;
+    width: 100%;
+    background-color: #212535;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
