@@ -1,3 +1,9 @@
+
+@font-face {
+    font-family: 'harverstone';
+    src: url('assets/font/Harvestone.ttf');
+  }
+
 body{
     overflow: hidden;
 }
@@ -10,4 +16,22 @@ body{
     left: 0px;
     right: 0px;
     bottom: 0px;
+}
+
+#username{
+    width: 400px;
+    font-size: 30px;
+    border: none;
+    border-bottom: 7px solid white;
+    background-color: transparent;
+    outline: none;
+    color: white;
+    font-family:'harverstone';
+    text-shadow: -2px 2px 4px #F9BA36;
+    text-align: center;
+    
+}
+
+#username::placeholder{
+    color: white;
 }
