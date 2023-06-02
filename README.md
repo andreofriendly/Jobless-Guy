@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rules Game PTI:
 24 menit fuII Iength time
 24 menit= 1440 detik
@@ -49,3 +50,7 @@ Semua stat (food bar, play bar, sleep bar, health bar) tetap berjalan (berkurang
 
 
 s
+=======
+# Jobless-Guy
+Jobless-Guy Game Midterm Exam
+>>>>>>> origin/main
